@@ -17,6 +17,16 @@ This project uses Convolutional Neural Networks (CNN) to classify plant leaf ima
 
 
 ---
+## 📦 Dataset
+
+This project uses the [PlantVillage dataset](https://www.kaggle.com/datasets/emmarex/plantdisease).  
+Due to its large size, **the dataset is not included in this repository**.
+
+### 📥 How to Use:
+1. Download the dataset from the link above.
+2. Extract it.
+3. Place it inside the root project folder as:
+
 
 ## 🧠 Model Overview
 
