@@ -1,0 +1,25 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment
+venv/
+env/
+
+# Ignore model files (large)
+*.h5
+*.hdf5
+*.pkl
+
+# Ignore dataset folder (too large for GitHub)
+PlantVillage/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# VSCode settings (optional)
+.vscode/
+
