@@ -50,7 +50,7 @@ Project_Root/
 ## 🛠️ Setup & Installation
 
 ### 1. Clone this repository
-       ```bash
+       ```
           git clone https://github.com/ShwetDutta/plant-disease-project.git
           cd plant-disease-project
 
