@@ -50,12 +50,12 @@ Project_Root/
 ## 🛠️ Setup & Installation
 
 ### 1. Clone this repository
-       ```
+      
           git clone https://github.com/ShwetDutta/plant-disease-project.git
           cd plant-disease-project
 
 ### 2. Create a virtual environment (optional but recommended)
-       ```bash
+       
          python -m venv venv
          
          # On Windows:
@@ -65,17 +65,17 @@ Project_Root/
          source venv/bin/activate
 
 ### 3. Install dependencies
-      ```bash
+     
          pip install -r requirements.txt
 
 ### 4. Ensure the dataset is placed in:
-      ```bash
+      
         PlantVillage/
 
 #🚀 How to Run
 ▶️ Run the notebook
 
-      ```bash
+      
       jupyter notebook
 
 Open Plant_Leaf_Disease_Classifier.ipynb.
@@ -92,7 +92,7 @@ Predict on a custom test image
 
 🖼️ Sample Output:
 
-      ```vbnet
+     
       Predicted Class: Tomato___Target_Spot (99.40% confidence)
 
 
